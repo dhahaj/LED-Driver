@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LED-Driver.PrjPCB]
+   Generated File[LED-Driver.TXT]
+   Generated File[LED-Driver.LDP]
+   Generated File[LED-Driver.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:50:03 AM On 5/29/2018
